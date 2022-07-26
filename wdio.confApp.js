@@ -305,4 +305,5 @@ exports.config = {
     */
     //onReload: function(oldSessionId, newSessionId) {
     //}
+    product:'appAutomation'
 }
